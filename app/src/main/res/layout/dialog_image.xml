@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    app:cardElevation="0dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <FrameLayout
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:background="@color/background">
+
+        <ImageView
+            android:id="@+id/img_dialog"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        </ImageView>
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:src="@drawable/ic_cancel"
+            app:fabCustomSize="40dp"
+            android:id="@+id/btn_close_dialog"
+            app:maxImageSize="25dp"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="end"
+            android:backgroundTint="@color/background_item">
+        </com.google.android.material.floatingactionbutton.FloatingActionButton>
+
+
+    </FrameLayout>
+
+
+
+
+</androidx.cardview.widget.CardView>
