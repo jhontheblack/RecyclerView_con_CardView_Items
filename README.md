@@ -2,7 +2,9 @@
 ***Codigo elaborado por Jhon Byron Leturne Pluas***
 ***Hecho en el lenguaje _Java_ ***
 
+![WhatsApp Image 2023-07-15 at 11 14 20 PM](https://github.com/jhontheblack/RecyclerView_con_CardView_Items/assets/136009347/c778346b-7950-4248-bd15-da12178a2c0f)
 
-![WhatsApp Image 2023-07-15 at 11 14 20 PM](https://github.com/jhontheblack/RecyclerView_con_CardView_Items/assets/136009347/33a13b4c-573b-4fed-b827-ee2b1075b113)
-![WhatsApp Image 2023-07-15 at 11 14 21 PM](https://github.com/jhontheblack/RecyclerView_con_CardView_Items/assets/136009347/3a230818-0680-4b9f-a593-2b46da25263d)
-![WhatsApp Image 2023-07-15 at 11 14 21 PM (1)](https://github.com/jhontheblack/RecyclerView_con_CardView_Items/assets/136009347/fe61e2bb-48b9-4528-85dd-da033195aeb3)
+
+![WhatsApp Image 2023-07-15 at 11 14 21 PM (1)](https://github.com/jhontheblack/RecyclerView_con_CardView_Items/assets/136009347/8a81ead7-0993-44d3-9770-7db1ad270b7a)
+
+![WhatsApp Image 2023-07-15 at 11 14 21 PM](https://github.com/jhontheblack/RecyclerView_con_CardView_Items/assets/136009347/ecb9503b-508d-47c4-86de-befeef10542e)
